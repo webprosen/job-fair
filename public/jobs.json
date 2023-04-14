@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "company_logo": "./images/company/analyzen.svg",
+        "company_name": "Analyzen",
+        "job_title": "PHP Laravel Developer",
+        "remote_or_onsite": "Remote",
+        "location": "Dhaka, Bangladesh",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "10K - 15K",
+        "job_description": "You have more skills that are conducive to building a formidable TEAM and we are eager to learn about them from you!",
+        "job_responsibility": "Experienced in MongoDB realm technology implementation.",
+        "educational_requirments": "Bachelor of Science (BSc) in CSE",
+        "experiences": "5 to 7 year(s)",
+        "contact_information": {
+            "phone": "01750-124789",
+            "email": "info@analyzen.com"
+        }
+    },
+    {
+        "id": 2,
+        "company_logo": "./images/company/progress.png",
+        "company_name": "Progress Bangladesh",
+        "job_title": "Sr. Shopify Developer",
+        "remote_or_onsite": "Onsite",
+        "location": "Dhaka, Bangladesh",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "100K - 150K",
+        "job_description": "No job description needed",
+        "job_responsibility": "Hard Worker",
+        "educational_requirments": "MBA",
+        "experiences": "2 to 3 year(s)",
+        "contact_information": {
+            "phone": "01718-125897",
+            "email": "career@globetech.com"
+        }
+    },
+    {
+        "id": 3,
+        "company_logo": "./images/company/wedevs.svg",
+        "company_name": "WeDevs",
+        "job_title": "Software Developer (C++)",
+        "remote_or_onsite": "Remote",
+        "location": "Dhaka, Bangladesh",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "15K - 25K",
+        "job_description": "E-commerce product filter with location, title, prize, category, high or low price, brand, etc any type of search functionality with minimum loading time",
+        "job_responsibility": "Experience in working with JSON and REST API (a good understanding of how to build and consume REST APIs is required)",
+        "educational_requirments": "Freshers are also encouraged to apply.",
+        "experiences": "At least 2 year(s)",
+        "contact_information": {
+            "phone": "01758-910023",
+            "email": "info@wedevs.com"
+        }
+    },
+    {
+        "id": 4,
+        "company_logo": "./images/company/microsoft.png",
+        "company_name": "Microsoft",
+        "job_title": "Frontend Engineer (Vue.js)",
+        "remote_or_onsite": "Onsite",
+        "location": "12/85, Chicago, USA",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "50K - 60K",
+        "job_description": "You can work alone just fine but when you have a team you do things much faster because you know very well how and when to take help from others.",
+        "job_responsibility": "Knowledge and experience in RESTful API development with any programming language. ",
+        "educational_requirments": "MBA",
+        "experiences": "At least 2 year(s)",
+        "contact_information": {
+            "phone": "01825-910456",
+            "email": "career@microsoft.com"
+        }
+    },
+    {
+        "id": 5,
+        "company_logo": "./images/company/google.png",
+        "company_name": "Google LLC",
+        "job_title": "Sr. Software Engineer",
+        "remote_or_onsite": "Remote",
+        "location": "589/15, Marqe Street, USA",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "100K - 150K",
+        "job_description": "Brilliant Cloud Platform is the first public cloud provider in USA and we are on a mission to build a fully extensible and complete cloud platform and connect developers and consumers to our cloud to ensure trusted high-performance cloud services.",
+        "job_responsibility": "Learning the internals of various OpenStack modules like Nova, Neutron, and Glance and work with the underlying codebase.",
+        "educational_requirments": "Bachelor of Science (BSc) in CSE",
+        "experiences": "At most 5 year(s)",
+        "contact_information": {
+            "phone": "01758-910000",
+            "email": "info@google.com"
+        }
+    },
+    {
+        "id": 6,
+        "company_logo": "./images/company/netflix.png",
+        "company_name": "Netflix Ltd.",
+        "job_title": "Senior MERN Stack Developer",
+        "remote_or_onsite": "Onsite",
+        "location": "12/45 A, Sydney, Australia",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "50K - 70K",
+        "job_description": "Quantic Dynamics is looking for energetic and proactive individuals to be a part of our development team supporting both established projects and creating from the ground up.",
+        "job_responsibility": "Back-end Development in node.js, express.js Main JD ",
+        "educational_requirments": "Bachelor of Science (BSc) in CSE",
+        "experiences": "5 to 7 year(s)",
+        "contact_information": {
+            "phone": "01658-120369",
+            "email": "info@netflix.com"
+        }
+    },
+    {
+        "id": 7,
+        "company_logo": "./images/company/airbnb.png",
+        "company_name": "Air BNB LLC",
+        "job_title": "Frontend Developer (React.js)",
+        "remote_or_onsite": "Remote",
+        "location": "63/89, Kualalampur, Malaysia",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "10K - 40K",
+        "job_description": "Being part of an exponentially growing company, you will get exposure to all aspects of our business and generate impact proportionally to your ability. Remote, onsite and hybrid work environment is available.",
+        "job_responsibility": "Communicating with clients for understanding, analyzing, and implementing business needs, feature modification requests, conversion into software components",
+        "educational_requirments": "Bachelor of Science (BSc) in CSE",
+        "experiences": "2 to 4 year(s)",
+        "contact_information": {
+            "phone": "01745-911250",
+            "email": "info@airbnb.com"
+        }
+    },
+    {
+        "id": 8,
+        "company_logo": "./images/company/tesla.png",
+        "company_name": "Tesla LLC",
+        "job_title": "Software Engineer (Python)",
+        "remote_or_onsite": "Onsite",
+        "location": "12/85, Vellaga, UK",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "30K - 70K",
+        "job_description": "The ideal candidate is an experienced leader and team player who is adept at both frontend and backend development.",
+        "job_responsibility": "Enhancing the functionalities of our existing applications",
+        "educational_requirments": "Bachelor of Science (BSc) in CSE",
+        "experiences": "5 to 7 year(s)",
+        "contact_information": {
+            "phone": "01718-910257",
+            "email": "info@tesla.com"
+        }
+    }
+]
