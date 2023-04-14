@@ -2,25 +2,25 @@
     {
         "id": 1,
         "img": "/images/categories/accounts.png",
-        "title": "Account & Finance",
-        "description": "300 Jobs Available"
+        "title": "E-commerce & CMS",
+        "description": "1k+ Jobs Available"
     },
     {
         "id": 2,
         "img": "/images/categories/business.png",
-        "title": "Creative Design",
-        "description": "100+ Jobs Available"
+        "title": "UI/UX Design",
+        "description": "2K+ Jobs Available"
     },
     {
         "id": 3,
         "img": "/images/categories/social.png",
-        "title": "Marketing & Sales",
-        "description": "150 Jobs Available"
+        "title": "SEO & Marketing",
+        "description": "3k+ Jobs Available"
     },
     {
         "id": 4,
         "img": "/images/categories/chip.png",
-        "title": "Engineering Job",
-        "description": "224 Jobs Available"
+        "title": "Full Stack Job",
+        "description": "4k+ Jobs Available"
     }
 ]
