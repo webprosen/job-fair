@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "company_logo": "./images/company/analyzen.svg",
+        "company_logo": "/images/company/analyzen.svg",
         "company_name": "Analyzen",
         "job_title": "PHP Laravel Developer",
         "remote_or_onsite": "Remote",
@@ -19,7 +19,7 @@
     },
     {
         "id": 2,
-        "company_logo": "./images/company/progress.png",
+        "company_logo": "/images/company/progress.png",
         "company_name": "Progress Bangladesh",
         "job_title": "Sr. Shopify Developer",
         "remote_or_onsite": "Onsite",
@@ -37,7 +37,7 @@
     },
     {
         "id": 3,
-        "company_logo": "./images/company/wedevs.svg",
+        "company_logo": "/images/company/wedevs.svg",
         "company_name": "WeDevs",
         "job_title": "Software Developer (C++)",
         "remote_or_onsite": "Remote",
@@ -55,7 +55,7 @@
     },
     {
         "id": 4,
-        "company_logo": "./images/company/microsoft.png",
+        "company_logo": "/images/company/microsoft.png",
         "company_name": "Microsoft",
         "job_title": "Frontend Engineer (Vue.js)",
         "remote_or_onsite": "Onsite",
@@ -73,7 +73,7 @@
     },
     {
         "id": 5,
-        "company_logo": "./images/company/google.png",
+        "company_logo": "/images/company/google.png",
         "company_name": "Google LLC",
         "job_title": "Sr. Software Engineer",
         "remote_or_onsite": "Remote",
@@ -91,7 +91,7 @@
     },
     {
         "id": 6,
-        "company_logo": "./images/company/netflix.png",
+        "company_logo": "/images/company/netflix.png",
         "company_name": "Netflix Ltd.",
         "job_title": "Senior MERN Stack Developer",
         "remote_or_onsite": "Onsite",
@@ -109,7 +109,7 @@
     },
     {
         "id": 7,
-        "company_logo": "./images/company/airbnb.png",
+        "company_logo": "/images/company/airbnb.png",
         "company_name": "Air BNB LLC",
         "job_title": "Frontend Developer (React.js)",
         "remote_or_onsite": "Remote",
@@ -127,7 +127,7 @@
     },
     {
         "id": 8,
-        "company_logo": "./images/company/tesla.png",
+        "company_logo": "/images/company/tesla.png",
         "company_name": "Tesla LLC",
         "job_title": "Software Engineer (Python)",
         "remote_or_onsite": "Onsite",

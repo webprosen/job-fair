@@ -31,7 +31,7 @@ const Footer = () => {
                         <h2 className='text-xl font-bold mb-4'>Contact</h2>
                         <p className='mb-2'>524 Broadway , NYC</p>
                         <p className='mb-5'>+1 777 - 978 - 5570</p>
-                        <img className='max-w-[120px]' src="./images/categories/footer.png" alt="" />
+                        <img className='max-w-[120px]' src="/images/categories/footer.png" alt="" />
                     </div>
                 </div>
                 <div className='text-sm text-white pt-10'>

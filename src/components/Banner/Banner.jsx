@@ -6,7 +6,7 @@ const Banner = () => {
             <div className='max-w-6xl mx-auto px-6 md:px-4 py-5'>
                 <div className='md:flex flex-row-reverse justify-between items-center'>
                     <div className='md:w-1/2'>
-                        <img src="./images/banner/hero.png" alt="" />
+                        <img src="/images/banner/hero.png" alt="" />
                     </div>
                     <div className='md:w-1/2 mt-8'>
                         <h2 className='text-4xl md:text-5xl font-bold leading-[45px] md:leading-[55px]'>
